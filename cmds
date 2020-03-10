@@ -1,0 +1,249 @@
+    1  c:
+    2  git log
+    3  /dev/wokrspace/myrepo
+    4  c:
+    5  cd
+    6  cd c:
+    7  cd dev
+    8  cd workspace
+    9  cd myrepo
+   10  git log
+   11  git commit -m "Hello Philippe"
+   12  git add script.py
+   13  git commit -m "hello philippe"
+   14  git add script.py
+   15  git commit -m "philippe"
+   16  touch script.py
+   17  git commit -m "bpnjour philippe"
+   18  ls
+   19  git add script.py 
+   20  git commit -m "jai rien changer"
+   21  git log
+   22  git commit -m "bonjour"
+   23  ls
+   24  cat script.py 
+   25  touch script.py 
+   26  ls
+   27  nano script.py 
+   28  git add script.py 
+   29  git commit -m "rajout salut"
+   30  git log
+   31  git commit -m "ajout d'une ligne d'affichage"
+   32  git log
+   33  git log
+   34  ls
+   35  nano script.py 
+   36  git log
+   37  git log
+   38  nano script.py 
+   39  git status
+   40  git commit -m "ajout d'une ligne d'affichage"
+   41  git add script.py 
+   42  git commit -m "ajout d'une ligne d'affichage"
+   43  git log
+   44  git add script.py 
+   45  git commit -m "bonjour"
+   46  git status
+   47  git log
+   48  git add script.py
+   49  git commit -m "bonjour"
+   50  git log
+   51  ls 
+   52  git add script.py 
+   53  git commit -m "gestion de version"
+   54  git add script.py 
+   55  git commit -m "gestion de version"
+   56  git log
+   57  git add script.py
+   58  git commit -m "turbo bsn"
+   59  git log
+   60  git add script.py
+   61  git commt -m "place des archives"
+   62  git commit -m "place des archives"
+   63  git commit -m "place des archives"
+   64  git commit -m "place des archives"
+   65  git add script.py 
+   66  git commit -m "place des archives"
+   67  git log
+   68  git checkout f673298775a9f4ca66b8340407b53bfef9dff687
+   69  git status
+   70  git checkout master
+   71  ls
+   72  git log
+   73  git checkout 5464d2d8143a06f93d5afd661088f83839e626d9
+   74  git checkout master
+   75  git commit -m "faute d'orthographe"
+   76  git add script.py 
+   77  git commit -m "faute orthographe"
+   78  git branch "idea"
+   79  git checkout idea
+   80  git commit -m "majeur: yes"
+   81  git commit -m "majeur: yes"
+   82  git add script.py 
+   83  git commit -m "majeur: yes"
+   84  git log
+   85  git checkout f673298775a9f4ca66b8340407b53bfef9dff687
+   86  git log
+   87  git add script.py 
+   88  git commit -m "quel est ton nom"
+   89  git log
+   90  git checkout master 
+   91  git log
+   92  git branch -a
+   93  git checkout idea
+   94  git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n''          %C(white)%s%C(reset)%n''          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'
+   95  git checkout master
+   96  git checkout master
+   97  git checkout master
+   98  git add script.py 
+   99  git commit -m "quel est ton nom?"
+  100  git checkout master 
+  101  git log
+  102  git add script.py 
+  103  git commit -m "ajouter une nouvelle ligne"
+  104  git branch - a
+  105  git branch -a
+  106  git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset) %C(bold cyan)(committed: %cD)%C(reset) %C(auto)%d%C(reset)%n''          %C(white)%s%C(reset)%n''          %C(dim white)- %an <%ae> %C(reset) %C(dim white)(committer: %cn <%ce>)%C(reset)'
+  107  git merge
+  108  mkdr "first online repo"
+  109  mkdir "first online repo"
+  110  cd first online repo
+  111  cd FOR
+  112  cd for
+  113  cd
+  114  cd c:
+  115  cd dev
+  116  cd workspace/
+  117  cd myrepo/
+  118  mdkir first\ online\ repo/
+  119  cd c:
+  120  cd dev
+  121  cd wo
+  122  cd workspace/
+  123  mdkir "my first online repo"
+  124  mkdir "my first online repo"
+  125  cd first online
+  126  ls
+  127  cat m
+  128  cd
+  129  ls
+  130  cd c/
+  131  cd c/
+  132  cd ..
+  133  cd ..
+  134  cd dev
+  135  cd workspace/
+  136  ls
+  137  mkdir first-online-repo
+  138  ls
+  139  cd first-online-repo/
+  140  git init
+  141  touch README.md
+  142  git commit -m "firts commit"
+  143  nano README.md 
+  144  git add script.py
+  145  git init
+  146  nano README.md 
+  147  git commit -m "first commit"
+  148  git log
+  149  ls
+  150  nano README.md 
+  151  git add README.md README.md README.md 
+  152  git add README.md 
+  153  git commit -m "first commit"
+  154  git remote add origin https://github.com/phillppe/Philippe-ESSNEGUE.git
+  155  git push -u origin master
+  156  pPhillpegithubdu69
+  157  git add README.md 
+  158  nano README.md 
+  159  git add README.md
+  160  git remote add origin https://github.com/phillppe/Philippe-ESSNEGUE.git
+  161  git commit -m "first commit"
+  162  git init
+  163  nano README.md 
+  164  git add README.md 
+  165  git commit -m "first commit"
+  166  git remote add origin https://github.com/phillppe/Philippe-ESSNEGUE.git
+  167  git clone https://github.com/Valentinfavre/Sky-anime-Project.git
+  168  cd
+  169  cd dev
+  170  cd c:
+  171  cd dev
+  172  cd wokspace
+  173  cd workspace/
+  174  cd myrepo/
+  175  git checkout master
+  176  CD C:
+  177  cd c:
+  178  cd dev
+  179  cd workspace/
+  180  mkdir examen
+  181  cd examen/
+  182  git init
+  183  git add script.py
+  184  git intit
+  185  git init
+  186  git add script.py
+  187  git commit "Hello world"
+  188  cd
+  189  cd Desktop/
+  190  cd
+  191  cd dev
+  192  cd c:
+  193  cd dev
+  194  cd workspace/
+  195  cd examen/
+  196  git init
+  197  git add script.py
+  198  git log
+  199  git commit -m "Hello world"
+  200  git add script.py
+  201  git init
+  202  git *.c
+  203  git add script.py
+  204  git add script;py
+  205  touch script
+  206  git add script script.py
+  207  git add script.py
+  208  rm script 
+  209  touch script.py
+  210  git add script.py
+  211  git commit -m "Hello world"
+  212  git log
+  213  git commit -m "BSN"
+  214  git add script.py 
+  215  git add "BSN"
+  216  git commit -m "bsn"
+  217  git log
+  218  git commit -m "bsn"
+  219  git add script.py 
+  220  git commit -m "bsn"
+  221  git log
+  222  git init
+  223  git add README.md
+  224  git init
+  225  git add script.py 
+  226  git add README.md
+  227  echo "# examen >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin 
+
+https://github.com/phillppe/examen.git
+exit
+  228  echo "# examen" >> README.md
+  229  echo "# examen" >> README.md
+  230  echo "# examen >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/philippe/examen.git
+git push -u origin master
+
+  231  git branch developpement
+  232  git init
+  233  touch readme.md
+  234  nano README.md 
+  235  touch cmds
+  236  history > cmds
